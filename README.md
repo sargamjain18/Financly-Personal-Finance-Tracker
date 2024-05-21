@@ -1,3 +1,9 @@
+This project is a user-friendly personal finance tracking application built
+with React, ANT Design, and Firebase. It offers seamless data
+synchronization and real-time updates through react-firebase-hooks,
+featuring authentication, database functionalities, transaction tracking,
+and visualization of financial statistics, providing an efficient tool for
+managing personal finances.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
